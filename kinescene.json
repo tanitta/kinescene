@@ -1,0 +1,8 @@
+{
+	"hpath": "$KINESCENE",
+    "env": [
+        {
+            "KINESCENE": "$HOUDINI_PACKAGE_PATH/kinescene"
+        }
+    ]
+}
